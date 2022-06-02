@@ -1,5 +1,5 @@
 # World Weather Analysis
-An app that is used for traveling that combines over 600 cities location and weather data.
+This project was to develop an app used for traveling, that combines over 600 cities location and weather data.
 
 ## Overview and Summary
 - Script was developed to first generate latitiudes and logitudes used to identify cities. From there the script used OpenWeatherMaps API to pull weather data of those cities and populate them into one place. 
