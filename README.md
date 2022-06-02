@@ -8,4 +8,4 @@ This project was to develop an app used for traveling, that combines over 600 ci
 - Google Directions API was then used to creat a tavel map for a "road trip" through selected cities.
 
 ### Tools Used
-Python, Pandas, CitiPy, SciPy, Google Maps, OpenWeatherMap adn Jupyter Notebook
+Python, Pandas, CitiPy, SciPy, Google Maps, OpenWeatherMap and Jupyter Notebook
